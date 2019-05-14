@@ -543,7 +543,7 @@ class TextFields extends React.Component {
            <AppBar className={classes.appBar}>
       <Toolbar>
         <Typography variant="title" color="inherit" noWrap>
-          © UCF Bootcamp
+          © UCF Bootcamp (T E S T)
         </Typography>
       </Toolbar>
     </AppBar>

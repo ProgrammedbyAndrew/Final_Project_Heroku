@@ -211,7 +211,7 @@ class ResponsiveDrawer extends React.Component {
                 <MenuIcon/>
               </IconButton>
               <Typography variant="title" color="inherit" noWrap>
-                NOZ : Clinical Research Made Simple
+                Medical Research 
               </Typography>
             </Toolbar>
           </AppBar>
